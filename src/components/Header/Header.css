@@ -1,0 +1,134 @@
+.header {
+  min-height: 100vh;
+  background: linear-gradient(rgba(255, 255, 255, 0.9), rgb(240, 195, 230, 0.9)),
+    url("../../assets/images/header_main_img.jpg") center/cover no-repeat;
+}
+.header-content .text-lead {
+  margin: 3.2rem 0 4.9rem 0;
+}
+.header-title {
+  font-size: 50px;
+  font-weight: 900;
+  line-height: 1.2;
+
+  background: linear-gradient(to right, var(--clr-white), #ffffff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.header-btn {
+  align-self: center !important;
+}
+.header-btn span {
+  margin-left: 10px;
+}
+
+.text-container {
+  height: 70vh;
+  padding: 10px;
+  padding-bottom: 10px;
+  overflow: hidden;
+  width: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero {
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+  color: #ccc;
+  position: relative;
+
+  font-family: "Amatic SC", sans-serif;
+  letter-spacing: 17.5px;
+}
+
+.hero-one {
+  top: 0;
+  position: absolute;
+  width: 60%;
+  background-color: black;
+  height: 100vh;
+  clip-path: polygon(0 0, 60vw 0, 40vw 100vh, 0 100vh);
+  z-index: 1;
+  background-image: linear-gradient(
+      rgba(100, 94, 94, 0.2),
+      rgba(70, 65, 65, 0.5)
+    ),
+    url("../../assets/images/karin.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.hero-two {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 80%;
+  background-color: green;
+  height: 100vh;
+  background-image: linear-gradient(
+      rgba(100, 94, 94, 0.2),
+      rgba(70, 65, 65, 0.5)
+    ),
+    url("../../assets/images/EY_Troopiline-ananassiga_moodshotENG.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.header-title {
+  z-index: 2;
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.header-primary {
+  font-size: 1.3em;
+  display: inline-block;
+  font-weight: 800;
+}
+#spin {
+  font-size: 1.3em;
+  display: inline-block;
+  font-weight: 800;
+}
+
+#spin:after {
+  content: "";
+  animation: spin 10s linear infinite;
+}
+@keyframes spin {
+  0% {
+    content: " turunduse,";
+  }
+  20% {
+    content: " reklaami,";
+  }
+  40% {
+    content: " tekstid,";
+  }
+  60% {
+    content: " kodulehe,";
+  }
+  80% {
+    content: " visuaalid,";
+  }
+
+  100% {
+    content: " kampaania,";
+  }
+}
+
+@media screen and (min-width: 600px) {
+  .header-title {
+    font-size: 88px;
+  }
+  .header-content * {
+    max-width: 920px;
+  }
+}
