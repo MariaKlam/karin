@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/karin/static/css/main.5e3baa79.css",
-    "main.js": "/karin/static/js/main.f71f654f.js",
+    "main.js": "/karin/static/js/main.0a498635.js",
     "static/media/EY_kirss.png": "/karin/static/media/EY_kirss.60334e44ca10486855d0.png",
     "static/media/EY_King-toss_moodshotENG.png": "/karin/static/media/EY_King-toss_moodshotENG.1836da5ec56ee6159de2.png",
     "static/media/EY_Tilgad-pulber_moodshotENG.png": "/karin/static/media/EY_Tilgad-pulber_moodshotENG.19d6a31671bd589678ed.png",
@@ -25,10 +25,10 @@
     "static/media/customer_img_1.jpg": "/karin/static/media/customer_img_1.171d803a1a84c732c2c3.jpg",
     "index.html": "/karin/index.html",
     "main.5e3baa79.css.map": "/karin/static/css/main.5e3baa79.css.map",
-    "main.f71f654f.js.map": "/karin/static/js/main.f71f654f.js.map"
+    "main.0a498635.js.map": "/karin/static/js/main.0a498635.js.map"
   },
   "entrypoints": [
     "static/css/main.5e3baa79.css",
-    "static/js/main.f71f654f.js"
+    "static/js/main.0a498635.js"
   ]
 }
