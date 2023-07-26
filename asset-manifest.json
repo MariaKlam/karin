@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/karin/static/css/main.c62c03aa.css",
-    "main.js": "/karin/static/js/main.ea4566dc.js",
-    "static/media/Pastillid.mp4": "/karin/static/media/Pastillid.58bad1a5e1fbddcac789.mp4",
+    "main.css": "/karin/static/css/main.5e3baa79.css",
+    "main.js": "/karin/static/js/main.df427b2f.js",
     "static/media/EY_kirss.png": "/karin/static/media/EY_kirss.60334e44ca10486855d0.png",
     "static/media/EY_King-toss_moodshotENG.png": "/karin/static/media/EY_King-toss_moodshotENG.1836da5ec56ee6159de2.png",
     "static/media/EY_Tilgad-pulber_moodshotENG.png": "/karin/static/media/EY_Tilgad-pulber_moodshotENG.19d6a31671bd589678ed.png",
     "static/media/EY_Troopiline-ananassiga_moodshotENG.png": "/karin/static/media/EY_Troopiline-ananassiga_moodshotENG.a0ed91b7669725d3ac07.png",
+    "static/media/turundus4.png": "/karin/static/media/turundus4.e39d9219e4ddc3c74a03.png",
+    "static/media/turundus1.png": "/karin/static/media/turundus1.18391855c65c6e3aa90c.png",
+    "static/media/turundus2.png": "/karin/static/media/turundus2.5eed0b57b76dddaa812b.png",
     "static/media/header_main_img.jpg": "/karin/static/media/header_main_img.b1dd580818e48daddcdb.jpg",
     "static/media/video_cover_img.jpg": "/karin/static/media/video_cover_img.5c3be32fa0f29b4d8af5.jpg",
+    "static/media/turundus5.png": "/karin/static/media/turundus5.d6efffb63785876d8068.png",
     "static/media/karin.jpg": "/karin/static/media/karin.7cf3f0e9d369cd6ae5ce.jpg",
     "static/media/form_main_img.jpg": "/karin/static/media/form_main_img.d6c4abcb1e38dc80e214.jpg",
     "static/media/professionals_main_img.jpg": "/karin/static/media/professionals_main_img.d6c4abcb1e38dc80e214.jpg",
+    "static/media/turundus3.png": "/karin/static/media/turundus3.176ade56df08590ce677.png",
     "static/media/about_main_img.jpg": "/karin/static/media/about_main_img.58792d12957648ce314b.jpg",
     "static/media/customer_img_5.jpg": "/karin/static/media/customer_img_5.cb849f7f8ba50c2d0c9f.jpg",
     "static/media/customer_img_3.jpg": "/karin/static/media/customer_img_3.75b35d5b9aacc1939370.jpg",
@@ -20,11 +24,11 @@
     "static/media/customer_img_2.jpg": "/karin/static/media/customer_img_2.a4abaf18fca355149b35.jpg",
     "static/media/customer_img_1.jpg": "/karin/static/media/customer_img_1.171d803a1a84c732c2c3.jpg",
     "index.html": "/karin/index.html",
-    "main.c62c03aa.css.map": "/karin/static/css/main.c62c03aa.css.map",
-    "main.ea4566dc.js.map": "/karin/static/js/main.ea4566dc.js.map"
+    "main.5e3baa79.css.map": "/karin/static/css/main.5e3baa79.css.map",
+    "main.df427b2f.js.map": "/karin/static/js/main.df427b2f.js.map"
   },
   "entrypoints": [
-    "static/css/main.c62c03aa.css",
-    "static/js/main.ea4566dc.js"
+    "static/css/main.5e3baa79.css",
+    "static/js/main.df427b2f.js"
   ]
 }
